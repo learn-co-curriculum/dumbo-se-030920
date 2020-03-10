@@ -5,5 +5,7 @@
 ## Lecture code & videos
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Some topic       | [Link to code](url) | [Link to video](url) |
-| Some other topic | [Link to code](url) | [Link to video](url) |
+| Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
+
+[hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
+[hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
