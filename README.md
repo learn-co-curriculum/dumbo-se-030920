@@ -6,6 +6,10 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
+| Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
 [hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
+
+[intro-object-oriented-programming-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/02-oo/
+[intro-object-oriented-programming-video]: http://youtu.be/b8Z1KPnpDd8
