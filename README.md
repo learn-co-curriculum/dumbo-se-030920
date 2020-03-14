@@ -18,5 +18,5 @@
 [or-otm-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/03-one-to-many
 [or-otm-video]: https://youtu.be/-_7RKGVV-mk
 
-[or-sv-code]: https://github.com/reireynoso/ruby-oo-practice-relationships-silicon-valley-exercise-nyc04-seng-ft-030920/tree/code-along
+[or-sv-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/04-code-along
 [or-sv-video]: https://youtu.be/-zhBRG4YmwA
