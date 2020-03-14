@@ -8,6 +8,7 @@
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
 | Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
 | Object Relationships — One to Many | [Code][or-otm-code] | [Video][or-otm-video] |
+| Code Along Silicon Valley | [Code][or-sv-code] | [Video][or-sv-video] |
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
 [hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
