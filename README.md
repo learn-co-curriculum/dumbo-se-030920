@@ -1,6 +1,6 @@
 # dumbo-se-030920
 
-<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_g53t669qpdqlmdh6qckihdt0g8%40group.calendar.google.com&ctz=America%2FNew_York&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2c1M3Q2NjlxcGRxbG1kaDZxY2tpaGR0MGc4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX241aDBmbHNkOGY0aWU1NzNtZnY2bTg1cm4wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23B39DDB&amp;color=%23009688&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Lecture code & videos
 | Topic            | Code                | Video                |
