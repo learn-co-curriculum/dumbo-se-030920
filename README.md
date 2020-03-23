@@ -16,6 +16,9 @@
 | SQL Review | [Code][sql-review-code] | [Video 1][sql-review-1-video] [Video 2][sql-review-2-video] |
 | Intro to ActiveRecord | [Code][intro-ar-code] | [Video][intro-ar-video] |
 | ActiveRecord Associations | [Code][ar-associations-code] | [Video 1][ar-associations-video-1] [Video 2][ar-associations-video-2] [Video 3][ar-associations-video-3] |
+| CLI Setup && AR Review | [Code][cli-code] | [Video][cli-vid]
+
+
 
 
 
@@ -54,3 +57,7 @@
 [ar-associations-video-1]: https://youtu.be/iiv8IfuDivY
 [ar-associations-video-2]: https://youtu.be/7sQENOANSSE
 [ar-associations-video-3]: https://youtu.be/jFkN3D2BhsM
+
+
+[cli-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-cli-project
+[cli-vid]: https://wework.zoom.com/rec/share/wctxIY_eqkZORc-X8RnxfIIrA9zpeaa8gCdK8vtZmU3T8Pms0VXRmLeIgqqfVe_X?startTime=1584989425000
