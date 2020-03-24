@@ -17,7 +17,7 @@
 | Intro to ActiveRecord | [Code][intro-ar-code] | [Video][intro-ar-video] |
 | ActiveRecord Associations | [Code][ar-associations-code] | [Video 1][ar-associations-video-1] [Video 2][ar-associations-video-2] [Video 3][ar-associations-video-3] |
 | CLI Setup && AR Review | [Code][cli-code] | [Video][cli-vid]
-
+| TTY Lecture | [Code][tty-code] | [Video][tty-vid]
 
 
 
@@ -61,3 +61,8 @@
 
 [cli-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-cli-project
 [cli-vid]: https://wework.zoom.com/rec/share/wctxIY_eqkZORc-X8RnxfIIrA9zpeaa8gCdK8vtZmU3T8Pms0VXRmLeIgqqfVe_X?startTime=1584989425000
+
+
+[tty-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/11-tty-prompt
+[tty-vid]: https://wework.zoom.com/rec/share/3JNKcYDa3CRIGI3K0H3ef58oIb7paaa81yUc-aYKyk8_HqzE5-mnadO6w9rCA_PZ?startTime=1585064144000
+
