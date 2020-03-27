@@ -16,8 +16,11 @@
 | SQL Review | [Code][sql-review-code] | [Video 1][sql-review-1-video] [Video 2][sql-review-2-video] |
 | Intro to ActiveRecord | [Code][intro-ar-code] | [Video][intro-ar-video] |
 | ActiveRecord Associations | [Code][ar-associations-code] | [Video 1][ar-associations-video-1] [Video 2][ar-associations-video-2] [Video 3][ar-associations-video-3] |
+| Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-vid]
 | CLI Setup && AR Review | [Code][cli-code] | [Video][cli-vid]
 | TTY Lecture | [Code][tty-code] | [Video][tty-vid]
+| Intro to Testing | [Code][intro-test-code] | [Video][intro-test-vid]
+
 
 
 
@@ -65,4 +68,10 @@
 
 [tty-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/11-tty-prompt
 [tty-vid]: https://wework.zoom.com/rec/share/3JNKcYDa3CRIGI3K0H3ef58oIb7paaa81yUc-aYKyk8_HqzE5-mnadO6w9rCA_PZ?startTime=1585064144000
+
+[hashes-internet-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/09-hashes-internet
+[hashes-internet-vid]: https://youtu.be/FH_pjJkGl7E
+
+[intro-test-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-intro-to-testing
+[intro-test-vid]: https://youtu.be/5AyxGpwU9FI
 
