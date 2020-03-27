@@ -75,3 +75,27 @@
 [intro-test-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/10-intro-to-testing
 [intro-test-vid]: https://youtu.be/5AyxGpwU9FI
 
+Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/dumbo-se-030920) from all lectures.)
+
+## Blog Schedule
+
+Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](https://dev.to) and slack the link to your post to the group 15mins before your presentation. We make the blog schedule available here on your Learn.co dashboard so that you may **plan ahead**. It may happen that your SECs will PM you in slack with both **constructive feedback** to give you the opportunity to sharpen your presentation and idea sharing skills throughout the program. If you haven't received feedback and would like to get it, just ask!
+
+**Remember, blog presentations should be no longer than 5mins — after we allow 3mins for for questions.** If you're wondering why we blog, check out this [README](https://github.com/learn-co-curriculum/web-immersive-blogging).
+
+**Blog etiquette and other considerations**
+1. Follow each other on these platforms! 
+2. Clap/like the posts as much as possible for all your cohort mates! It takes 10 seconds and it goes a long way!
+3. If you've written a blog post, share it on LinkedIn and/or Twitter (you can use the hashtags #codeNewbies #100daysOfCode #devLife and tag @FlatironSchool). Take this opportunity to start building your online presence! 
+
+| **Date** | **Blog Presenters**                                                        |
+| -------- | ---------------------------------------------------------------------------|
+| 03/31    | Donny, Isabel, Xavier                     |
+| 04/02    | Gabrielle, Jack, Gary, Stephanie                                 |
+| 04/21    | Donny, Isabel, Xavier                                |
+| 04/23    | Gabrielle, Jack, Gary, Stephanie                       |
+| 05/12    | Donny, Isabel, Xavier                       |
+| 05/14    | Gabrielle, Jack, Gary, Stephanie                                      |
+| 06/02    | Donny, Isabel, Xavier                        |
+| 06/04    | Gabrielle, Jack, Gary, Stephanie                     |
+
