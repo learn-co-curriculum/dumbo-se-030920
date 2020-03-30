@@ -3,6 +3,8 @@
 <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2c1M3Q2NjlxcGRxbG1kaDZxY2tpaGR0MGc4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX241aDBmbHNkOGY0aWU1NzNtZnY2bTg1cm4wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23B39DDB&amp;color=%23009688&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Lecture code & videos
+
+### Mod 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
@@ -22,6 +24,11 @@
 | Intro to Testing | [Code][intro-test-code] | [Video][intro-test-vid]
 
 
+### Mod 2
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Intro to the Internet | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/12-intro-to-the-internet) | [Video](https://youtu.be/ZJIEKyDquRA) |
+| Intro to Sinatra & MVC | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/13-intro-to-sinatra-mvc) | [Video](https://youtu.be/RNcsYcDaujs) |
 
 
 
