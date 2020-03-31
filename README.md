@@ -29,6 +29,9 @@
 | -----            | ----                | -----                |
 | Intro to the Internet | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/12-intro-to-the-internet) | [Video](https://youtu.be/ZJIEKyDquRA) |
 | Intro to Sinatra & MVC | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/13-intro-to-sinatra-mvc) | [Video](https://youtu.be/RNcsYcDaujs) |
+| Sinatra CR      | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/14-sinatra-cr) | [Video 1](https://wework.zoom.com/rec/share/_-FeDojX311LG42X9lH7RLI-I4fFeaa8gCUf__UKnh7Hfg40JtS_f87Sgu-30Cr4?startTime=1585661956000), [Video 2](https://wework.zoom.com/rec/share/_-FeDojX311LG42X9lH7RLI-I4fFeaa8gCUf__UKnh7Hfg40JtS_f87Sgu-30Cr4?startTime=1585665005000)
+
+
 
 
 
