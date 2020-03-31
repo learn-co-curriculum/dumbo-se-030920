@@ -97,8 +97,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 
 | **Date** | **Blog Presenters**                                                        |
 | -------- | ---------------------------------------------------------------------------|
-| 03/31    | Donny, Isabel, Xavier                     |
-| 04/02    | Gabrielle, Jack, Gary, Stephanie                                 |
+| 03/31    | Donny, Xavier                     |
+| 04/02    | Gabrielle, Jack, Gary, Stephanie, Isabel                                 |
 | 04/21    | Donny, Isabel, Xavier                                |
 | 04/23    | Gabrielle, Jack, Gary, Stephanie                       |
 | 05/12    | Donny, Isabel, Xavier                       |
