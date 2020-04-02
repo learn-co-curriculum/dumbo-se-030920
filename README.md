@@ -35,11 +35,6 @@
 | Intro to Rails | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/17-intro-to-rails) | [Video 1](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585840640000), [Video 2](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585844169000)
 
 
-https://github.com/learn-co-students/dumbo-se-030920/tree/master/17-intro-to-rails
-
-
-
-
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
 [hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
