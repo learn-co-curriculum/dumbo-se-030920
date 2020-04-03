@@ -33,7 +33,7 @@
 | Sinatra UD      | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/15-sinatra-ud) | [Video 1](https://wework.zoom.com/rec/share/ws0tNvag2GNOQo2W4VPERfYCR6PEeaa81SZI-aYOyU_EWZvdaN5kZDB6VXeFCm-h?startTime=1585677823000), [Video 2](https://wework.zoom.com/rec/share/ws0tNvag2GNOQo2W4VPERfYCR6PEeaa81SZI-aYOyU_EWZvdaN5kZDB6VXeFCm-h?startTime=1585680868000)
 | Sinatra Associations | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/16-sinatra-associations) | [Video](https://youtu.be/gQlO4BhqZTk)
 | Intro to Rails | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/17-intro-to-rails) | [Video 1](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585840640000), [Video 2](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585844169000)
-
+| Rails Forms | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/18-rails-forms) | [Video 1](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585926136000), [Video 2](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585928856000), [Video 3](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585930068000)
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
