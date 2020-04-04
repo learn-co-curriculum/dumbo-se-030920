@@ -34,6 +34,7 @@
 | Sinatra Associations | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/16-sinatra-associations) | [Video](https://youtu.be/gQlO4BhqZTk)
 | Intro to Rails | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/17-intro-to-rails) | [Video 1](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585840640000), [Video 2](https://wework.zoom.com/rec/share/xMsyHpTy6WRJQLPg1kCCYu0sN4fVeaa8hHAY__MMzUyeuuvlq1gEnkppKuwCL5Cw?startTime=1585844169000)
 | Rails Forms | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/18-rails-forms) | [Video 1](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585926136000), [Video 2](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585928856000), [Video 3](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585930068000)
+| HTML 101 | [Code](https://repl.it/@sylwiavargas/Internet-101) | [Video](https://wework.zoom.com/rec/share/25JREPLv7iRLWp3vznzUAawhAbj0X6a81ncf_fYLyBvxgrkSEdRjFs5TPGqSIQVb) |
 
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
