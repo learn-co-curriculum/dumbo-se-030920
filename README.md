@@ -36,7 +36,7 @@
 | Rails Forms | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/18-rails-forms) | [Video 1](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585926136000), [Video 2](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585928856000), [Video 3](https://wework.zoom.com/rec/share/--BUbLLN_1JJZLPu2l_QXrIYFID5eaa8hHBPqPIOykbopzFI7QR4fb786NsJXJPO?startTime=1585930068000)
 | HTML 101 | [Code](https://repl.it/@sylwiavargas/Internet-101) | [Video](https://wework.zoom.com/rec/share/25JREPLv7iRLWp3vznzUAawhAbj0X6a81ncf_fYLyBvxgrkSEdRjFs5TPGqSIQVb) |
 | Rails Associations | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/19-rails-associations)  | [Video 1](https://wework.zoom.com/rec/share/wc1Yd6D-pzJIU6fj4Rj1QZAbL6rPeaa81HRM_6ILyx62Rday_Oa9aHvwqBAsoAFd?startTime=1586186308000), [Video 2](https://wework.zoom.com/rec/share/wc1Yd6D-pzJIU6fj4Rj1QZAbL6rPeaa81HRM_6ILyx62Rday_Oa9aHvwqBAsoAFd?startTime=1586189804000)
-
+| Rails Refactoring | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/19.5-rails-refactoring)  | [Video](https://wework.zoom.com/rec/share/zMllJKCo7zlLHdaSsAKHaJ4LHpTbaaa8hiBPqKULn0l7aUf_2fqAJzDs56uUxeEm?startTime=1586205676000)
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
 [hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
