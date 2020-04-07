@@ -38,6 +38,8 @@
 | Rails Associations | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/19-rails-associations)  | [Video 1](https://wework.zoom.com/rec/share/wc1Yd6D-pzJIU6fj4Rj1QZAbL6rPeaa81HRM_6ILyx62Rday_Oa9aHvwqBAsoAFd?startTime=1586186308000), [Video 2](https://wework.zoom.com/rec/share/wc1Yd6D-pzJIU6fj4Rj1QZAbL6rPeaa81HRM_6ILyx62Rday_Oa9aHvwqBAsoAFd?startTime=1586189804000)
 | Rails Refactoring | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/19.5-rails-refactoring)  | [Video](https://wework.zoom.com/rec/share/zMllJKCo7zlLHdaSsAKHaJ4LHpTbaaa8hiBPqKULn0l7aUf_2fqAJzDs56uUxeEm?startTime=1586205676000)
 | Rails Validations | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/20-rails-validations) | [Video 1](https://wework.zoom.com/rec/share/6PUtJpfcyD9JSJXd5Uv4ep4BPa_GT6a80XcZqfdZnUnkuVrxmXwc3xl7YW2HuxrZ?startTime=1586272513000) / [Video 2](https://wework.zoom.com/rec/share/6PUtJpfcyD9JSJXd5Uv4ep4BPa_GT6a80XcZqfdZnUnkuVrxmXwc3xl7YW2HuxrZ?startTime=1586275644000) |
+| Rails Review (Course App) | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/20.5-course-app) | [Video 1](https://wework.zoom.us/rec/play/6JMkce2tqDw3G9fH4QSDBaAoW9W-LK6s0SUWqKFfn0bnAHADYFH0ZLJHYeNIvBK8vdEs2UHTeRYFphX_?continueMode=true)
+
 
 [hashketball-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/01-hashketball
 [hashketball-vid]: https://www.youtube.com/watch?v=Of5P_XQ221k
