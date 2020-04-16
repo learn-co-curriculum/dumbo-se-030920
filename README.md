@@ -43,6 +43,7 @@
 | Sessions & Cookies | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/22-sessions-and-cookies) | [Video](https://wework.zoom.us/rec/share/wvYtFIqz2XpOeJHK6xCBdqtiMaDieaa8gyEfqKcMykjOiSMonkwCds23xLMMMwUy) PW: fl@t1ron
 | Authentication | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/23-auth) | [Video 1](https://wework.zoom.com/rec/share/45VUNZLuqk1LU7PcyhD2eJI6RNjqT6a81XMYqKYLmEhS6zFi9fyiR3Jc5uuo47is?startTime=1586791308000), [Video 2](https://wework.zoom.com/rec/share/45VUNZLuqk1LU7PcyhD2eJI6RNjqT6a81XMYqKYLmEhS6zFi9fyiR3Jc5uuo47is?startTime=1586794689000)
 | Authorization | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/24-auth-2) | [Video 1](https://wework.zoom.com/rec/share/3tMvCr3z0z5ORrPn0Ub9eJ9xTou_eaa8gCFLq_ZYmRkNbXUsslP5SYLe8mQRpx4q?startTime=1586801927000), [Video 2](https://wework.zoom.com/rec/share/3tMvCr3z0z5ORrPn0Ub9eJ9xTou_eaa8gCFLq_ZYmRkNbXUsslP5SYLe8mQRpx4q?startTime=1586804839000)
+| Breaking Conventions | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/25-breaking-conventions) | [Video](https://wework.zoom.com/rec/share/tc56Hq2rsUZLb5Xtx2LhQqkfNKbCT6a8gCUc_KVZn0bHe2tMi15o8KZgLgZwBQ3-?startTime=1586887844000)
 
 
 
