@@ -4,24 +4,11 @@
 
 ## Lecture code & videos
 
-### Mod 1
+
+### Mod 3 
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
-| Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
-| Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
-| Object Relationships — One to Many | [Code][or-otm-code] | [Video][or-otm-video] |
-| Code Along Silicon Valley | [Code][or-sv-code] | [Video][or-sv-video] |
-| Single Source of Truth | [Code][single-source-code] | [Video][single-source-video] |
-| Object Relationships — Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
-| Art Gallery Lab Review | [Code][art-gallery-code] | [Video][art-gallery-video] |
-| Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
-| SQL Review | [Code][sql-review-code] | [Video 1][sql-review-1-video] [Video 2][sql-review-2-video] |
-| Intro to ActiveRecord | [Code][intro-ar-code] | [Video][intro-ar-video] |
-| ActiveRecord Associations | [Code][ar-associations-code] | [Video 1][ar-associations-video-1] [Video 2][ar-associations-video-2] [Video 3][ar-associations-video-3] |
-| Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-vid]
-| CLI Setup && AR Review | [Code][cli-code] | [Video][cli-vid]
-| TTY Lecture | [Code][tty-code] | [Video][tty-vid]
-| Intro to Testing | [Code][intro-test-code] | [Video][intro-test-vid]
+| Intro to JS | [Code](https://github.com/sylwiavargas/js-warmup) | [Video](https://wework.zoom.com/rec/share/-eNRBOHh20VOT8_JzHP4ZbUPJKbveaa80ClI_aYOnR5zgPXK-h7E6DB3TMbaWggz) |
 
 
 ### Mod 2
@@ -45,6 +32,25 @@
 | Authorization | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/24-auth-2) | [Video 1](https://wework.zoom.com/rec/share/3tMvCr3z0z5ORrPn0Ub9eJ9xTou_eaa8gCFLq_ZYmRkNbXUsslP5SYLe8mQRpx4q?startTime=1586801927000), [Video 2](https://wework.zoom.com/rec/share/3tMvCr3z0z5ORrPn0Ub9eJ9xTou_eaa8gCFLq_ZYmRkNbXUsslP5SYLe8mQRpx4q?startTime=1586804839000)
 | Breaking Conventions | [Code](https://github.com/learn-co-students/dumbo-se-030920/tree/master/25-breaking-conventions) | [Video](https://wework.zoom.com/rec/share/tc56Hq2rsUZLb5Xtx2LhQqkfNKbCT6a8gCUc_KVZn0bHe2tMi15o8KZgLgZwBQ3-?startTime=1586887844000)
 
+
+### Mod 1
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Hashketball Review | [Code][hashketball-code] | [Video][hashketball-vid] |
+| Intro to Object-Oriented Programming | [Code][intro-object-oriented-programming-code] | [Video][intro-object-oriented-programming-video] |
+| Object Relationships — One to Many | [Code][or-otm-code] | [Video][or-otm-video] |
+| Code Along Silicon Valley | [Code][or-sv-code] | [Video][or-sv-video] |
+| Single Source of Truth | [Code][single-source-code] | [Video][single-source-video] |
+| Object Relationships — Many to Many | [Code][many-to-many-code] | [Video][many-to-many-video] |
+| Art Gallery Lab Review | [Code][art-gallery-code] | [Video][art-gallery-video] |
+| Inheritance | [Code][inheritance-code] | [Video][inheritance-video] |
+| SQL Review | [Code][sql-review-code] | [Video 1][sql-review-1-video] [Video 2][sql-review-2-video] |
+| Intro to ActiveRecord | [Code][intro-ar-code] | [Video][intro-ar-video] |
+| ActiveRecord Associations | [Code][ar-associations-code] | [Video 1][ar-associations-video-1] [Video 2][ar-associations-video-2] [Video 3][ar-associations-video-3] |
+| Hashes and the Internet | [Code][hashes-internet-code] | [Video][hashes-internet-vid]
+| CLI Setup && AR Review | [Code][cli-code] | [Video][cli-vid]
+| TTY Lecture | [Code][tty-code] | [Video][tty-vid]
+| Intro to Testing | [Code][intro-test-code] | [Video][intro-test-vid]
 
 
 
