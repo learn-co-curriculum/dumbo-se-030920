@@ -133,8 +133,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 04/02    | Gabrielle, Jack, Gary, Stephanie, Isabel                                 |
 | 04/21    | Donny, Isabel, Xavier, Stephanie                   |
 | 04/23    | Gabrielle, Jack, Gary, Daryl                       |
-| 04/28    | Wesley, Isabel, Daryl, Jemy                      |
-| 05/12    | Donny, Xavier, Wesley, Jemy                       |
+| 04/28    | Wesley, Isabel, Daryl                      |
+| 05/12    | Donny, Xavier, Wesley                       |
 | 05/14    | Gabrielle, Jack, Daryl                                      |
 | 05/26    | Wesley, Gary, Stephanie, Jemy                                       |
 | 06/02    | Donny, Isabel, Xavier, Wesley, Daryl                        |
