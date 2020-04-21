@@ -11,7 +11,8 @@
 | Intro to JS | [Code](https://github.com/sylwiavargas/js-warmup) | [Video](https://wework.zoom.com/rec/share/-eNRBOHh20VOT8_JzHP4ZbUPJKbveaa80ClI_aYOnR5zgPXK-h7E6DB3TMbaWggz) |
 | JS && Ruby  | [Code][js-ruby-code]     | [Video 1][js-ruby-vid1], [Video 2][js-ruby-vid2]                      |
 | Intro to DOM  | [Code][dom-code]     | [Video 1][dom-vid1], [Video 2][dom-vid2]                      |
-
+| JS Events  | [Code][evt-code]     | [Video 1][evt-vid1], [Video 2][evt-vid2]                      |
+| Closure + Delegation  | [Code][clodel-code]     | [Video 1][clodel-vid1], [Video 2][clodel-vid2]                      |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -20,6 +21,16 @@
 [dom-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/27-intro-to-dom
 [dom-vid1]: https://wework.zoom.com/rec/share/5_RnMvbb-nNLHNLOzETSYrZ6O7Tceaa80yEa_vQKzUd_iJH8w0IcIVOAqJkMDGbb?startTime=1587405831000
 [dom-vid2]: https://wework.zoom.com/rec/share/5_RnMvbb-nNLHNLOzETSYrZ6O7Tceaa80yEa_vQKzUd_iJH8w0IcIVOAqJkMDGbb?startTime=1587409071000
+
+[evt-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/28-events
+[evt-vid1]: https://wework.zoom.com/rec/share/_OhOd6n-9TpJY6PDymblR_8oF4niX6a8hiAZ-KAFn0k33X9D2TCZFGj_jfnp_5Ts?startTime=1587481527000
+[evt-vid2]: https://wework.zoom.com/rec/share/_OhOd6n-9TpJY6PDymblR_8oF4niX6a8hiAZ-KAFn0k33X9D2TCZFGj_jfnp_5Ts?startTime=1587484869000
+
+[clodel-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/29-closure-delegation
+[clodel-vid1]: https://wework.zoom.com/rec/share/zP18K7Dw931JR9bntE75SIU8H9n7eaa8hnQWr_tczxpdTy0NWpV2rZ1yksO1Bpi2?startTime=1587492228000
+[clodel-vid2]: https://wework.zoom.com/rec/share/zP18K7Dw931JR9bntE75SIU8H9n7eaa8hnQWr_tczxpdTy0NWpV2rZ1yksO1Bpi2?startTime=1587494470000
+
+
 
 
 ### Mod 2
