@@ -13,6 +13,7 @@
 | Intro to DOM  | [Code][dom-code]     | [Video 1][dom-vid1], [Video 2][dom-vid2]                      |
 | JS Events  | [Code][evt-code]     | [Video 1][evt-vid1], [Video 2][evt-vid2]                      |
 | Closure + Delegation  | [Code][clodel-code]     | [Video 1][clodel-vid1], [Video 2][clodel-vid2]                      |
+| Fetch  | [Code][fet-code]     | [Video 1][fet-vid1], [Video 2][fet-vid2]                      |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -29,6 +30,12 @@
 [clodel-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/29-closure-delegation
 [clodel-vid1]: https://wework.zoom.com/rec/share/zP18K7Dw931JR9bntE75SIU8H9n7eaa8hnQWr_tczxpdTy0NWpV2rZ1yksO1Bpi2?startTime=1587492228000
 [clodel-vid2]: https://wework.zoom.com/rec/share/zP18K7Dw931JR9bntE75SIU8H9n7eaa8hnQWr_tczxpdTy0NWpV2rZ1yksO1Bpi2?startTime=1587494470000
+
+[fet-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/30-fetch
+[fet-vid1]: https://wework.zoom.com/rec/share/5OJNEonPqzxOWaPmt3D0fvMoRrT4eaa80yEb_KFeykcVU91ImxLu7aXIKVXT1iw6?startTime=1587564215000
+[fet-vid2]: https://wework.zoom.com/rec/share/5OJNEonPqzxOWaPmt3D0fvMoRrT4eaa80yEb_KFeykcVU91ImxLu7aXIKVXT1iw6?startTime=1587567062000
+
+
 
 
 
