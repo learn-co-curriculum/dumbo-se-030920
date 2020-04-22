@@ -43,7 +43,7 @@
 
 [jsp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/32-js-walkthrough
 [jsp-repo]: https://github.com/HyeokJungKim/fullstack-template-mod3
-[jsp-vid2]: https://wework.zoom.com/rec/share/ysdFBY2sqnNLbZHf5GP7CvZmQKq-X6a81XUfq6IJxBrVqFeRLiwAppKZhGieRU53?startTime=1587584192000
+[jsp-vid1]: https://wework.zoom.com/rec/share/ysdFBY2sqnNLbZHf5GP7CvZmQKq-X6a81XUfq6IJxBrVqFeRLiwAppKZhGieRU53?startTime=1587584192000
 
 
 
