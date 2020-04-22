@@ -14,6 +14,8 @@
 | JS Events  | [Code][evt-code]     | [Video 1][evt-vid1], [Video 2][evt-vid2]                      |
 | Closure + Delegation  | [Code][clodel-code]     | [Video 1][clodel-vid1], [Video 2][clodel-vid2]                      |
 | Fetch  | [Code][fet-code]     | [Video 1][fet-vid1], [Video 2][fet-vid2]                      |
+| Fetch POST  | [Code][fetp-code]     | [Video 1][fetp-vid1], [Video 2][fetp-vid2]                      |
+| JS Practice Setup  | [Code][jsp-code] [Repo][jsp-repo]  | [Video][jsp-vid1]                   |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -34,6 +36,14 @@
 [fet-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/30-fetch
 [fet-vid1]: https://wework.zoom.com/rec/share/5OJNEonPqzxOWaPmt3D0fvMoRrT4eaa80yEb_KFeykcVU91ImxLu7aXIKVXT1iw6?startTime=1587564215000
 [fet-vid2]: https://wework.zoom.com/rec/share/5OJNEonPqzxOWaPmt3D0fvMoRrT4eaa80yEb_KFeykcVU91ImxLu7aXIKVXT1iw6?startTime=1587567062000
+
+[fetp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/31-post-fetch
+[fetp-vid1]: https://wework.zoom.com/rec/share/ysdFBY2sqnNLbZHf5GP7CvZmQKq-X6a81XUfq6IJxBrVqFeRLiwAppKZhGieRU53?startTime=1587578660000
+[fetp-vid2]: https://wework.zoom.com/rec/share/ysdFBY2sqnNLbZHf5GP7CvZmQKq-X6a81XUfq6IJxBrVqFeRLiwAppKZhGieRU53?startTime=1587581228000
+
+[jsp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/32-js-walkthrough
+[jsp-repo]: https://github.com/HyeokJungKim/fullstack-template-mod3
+[jsp-vid2]: https://wework.zoom.com/rec/share/ysdFBY2sqnNLbZHf5GP7CvZmQKq-X6a81XUfq6IJxBrVqFeRLiwAppKZhGieRU53?startTime=1587584192000
 
 
 
