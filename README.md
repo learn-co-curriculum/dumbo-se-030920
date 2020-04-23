@@ -166,8 +166,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 03/31    | Donny, Xavier                     |
 | 04/02    | Gabrielle, Jack, Gary, Stephanie, Isabel                                 |
 | 04/21    | Donny, Isabel, Xavier, Stephanie                   |
-| 04/23    | Gabrielle, Jack, Gary                       |
-| 04/28    | Wesley, Isabel, Daryl                      |
+| 04/23    | Jack, Gary                       |
+| 04/28    | Wesley, Isabel, Daryl, Gabrielle                      |
 | 05/12    | Donny, Xavier, Wesley                       |
 | 05/14    | Gabrielle, Jack, Daryl                                      |
 | 05/26    | Wesley, Gary, Stephanie, Jemy, Daryl                                       |
