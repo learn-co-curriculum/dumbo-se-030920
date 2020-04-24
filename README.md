@@ -17,7 +17,7 @@
 | Fetch POST  | [Code][fetp-code]     | [Video 1][fetp-vid1], [Video 2][fetp-vid2]                      |
 | JS Practice Setup  | [Code][jsp-code], [Repo][jsp-repo]  | [Video][jsp-vid1]                   |
 | Fetch CR  | [Code][fcr-code]  | [Video 1][fcr-vid1], [Video 2][fcr-vid2]                  |
-
+| Fetch UD  | [Code][fud-code]  | [Video 1][fud-vid1], [Video 2][fud-vid2], [Video 3][fud-vid3]            |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -51,7 +51,10 @@
 [fcr-vid1]: https://wework.zoom.com/rec/share/1Mp-bIn0sVFOc5HqzWaFcLx4Ob_BX6a80XMZ86cFyUncr7hOa0fon-Rp55h7LWRC?startTime=1587650674000
 [fcr-vid2]: https://wework.zoom.com/rec/share/1Mp-bIn0sVFOc5HqzWaFcLx4Ob_BX6a80XMZ86cFyUncr7hOa0fon-Rp55h7LWRC?startTime=1587654590000
 
-
+[fud-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/34-fetch-ud
+[fud-vid1]: https://wework.zoom.com/rec/share/zvckDazP1lJIBZH07hicV6kHIondeaa8g3Ia_PRZnR0UNlkKzSwCJXEiM_mrab1N?startTime=1587666875000
+[fud-vid2]: https://wework.zoom.com/rec/share/zvckDazP1lJIBZH07hicV6kHIondeaa8g3Ia_PRZnR0UNlkKzSwCJXEiM_mrab1N?startTime=1587669053000
+[fud-vid3]: https://wework.zoom.com/rec/share/zvckDazP1lJIBZH07hicV6kHIondeaa8g3Ia_PRZnR0UNlkKzSwCJXEiM_mrab1N?startTime=1587671260000
 
 
 
