@@ -20,6 +20,7 @@
 | Fetch UD  | [Code][fud-code]  | [Video 1][fud-vid1], [Video 2][fud-vid2], [Video 3][fud-vid3]            |
 | Toy Tales Review  | [Code][ttr-code]  | [Video 1][ttr-vid1], [Video 2][ttr-vid2]           |
 | Mock CC Review  | [Code][mcc-code]  | [Video 1][mcc-vid1], [Video 2][mcc-vid2]           |
+| Quotes Review  | [Code][qr-code]  | [Video 1][qr-vid1], [Video 2][qr-vid2], [Video 3][qr-vid3]           |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -65,6 +66,11 @@
 [mcc-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/36-mock-review
 [mcc-vid1]: https://wework.zoom.com/rec/share/xutvLrutqDpJR7fHsUbRR7F8MZT-X6a8gCEX-PsLyxvqBhRhKJ02ijTKs5hLPXRm?startTime=1588009046000
 [mcc-vid2]: https://wework.zoom.com/rec/share/xutvLrutqDpJR7fHsUbRR7F8MZT-X6a8gCEX-PsLyxvqBhRhKJ02ijTKs5hLPXRm?startTime=1588012252000
+
+[qr-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/37-quotes-review
+[qr-vid1]: https://wework.zoom.com/rec/share/2uBwA4Or6mpJYZHH8myYa_FxRbvaeaa81SQYqfQEyBupCqepdB5WC2WyYCYjMXBY?startTime=1588084474000
+[qr-vid2]: https://wework.zoom.com/rec/share/2uBwA4Or6mpJYZHH8myYa_FxRbvaeaa81SQYqfQEyBupCqepdB5WC2WyYCYjMXBY?startTime=1588087889000
+[qr-vid3]: https://wework.zoom.com/rec/share/2uBwA4Or6mpJYZHH8myYa_FxRbvaeaa81SQYqfQEyBupCqepdB5WC2WyYCYjMXBY?startTime=1588090285000
 
 
 
