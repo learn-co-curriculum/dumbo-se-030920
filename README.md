@@ -21,6 +21,9 @@
 | Toy Tales Review  | [Code][ttr-code]  | [Video 1][ttr-vid1], [Video 2][ttr-vid2]           |
 | Mock CC Review  | [Code][mcc-code]  | [Video 1][mcc-vid1], [Video 2][mcc-vid2]           |
 | Quotes Review  | [Code][qr-code]  | [Video 1][qr-vid1], [Video 2][qr-vid2], [Video 3][qr-vid3]           |
+| Rails API  | [Code][apir-code]  | [Video 1][apir-vid1], [Video 2][apir-vid2]           |
+| Rails Serializers  | [Code][rser-code]  | [Video 1][rser-vid1], [Video 2][rser-vid2], [Video 3][rser-vid3]           |
+
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -72,6 +75,16 @@
 [qr-vid2]: https://wework.zoom.com/rec/share/2uBwA4Or6mpJYZHH8myYa_FxRbvaeaa81SQYqfQEyBupCqepdB5WC2WyYCYjMXBY?startTime=1588087889000
 [qr-vid3]: https://wework.zoom.com/rec/share/2uBwA4Or6mpJYZHH8myYa_FxRbvaeaa81SQYqfQEyBupCqepdB5WC2WyYCYjMXBY?startTime=1588090285000
 
+
+[apir-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/38-rails-api
+[apir-vid1]: https://wework.zoom.com/rec/share/4cokP7-u0X9OfauSzmT8Aa56QdzaX6a80ydM__JbxUmegqoOkJpBu4ZQv1voenXI?startTime=1588259006000
+[apir-vid2]: https://wework.zoom.com/rec/share/4cokP7-u0X9OfauSzmT8Aa56QdzaX6a80ydM__JbxUmegqoOkJpBu4ZQv1voenXI?startTime=1588262008000
+
+
+[rser-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/39-rails-serializers
+[rser-vid1]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588269955000
+[rser-vid2]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588272692000
+[rser-vid3]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588275363000
 
 
 
