@@ -23,6 +23,8 @@
 | Quotes Review  | [Code][qr-code]  | [Video 1][qr-vid1], [Video 2][qr-vid2], [Video 3][qr-vid3]           |
 | Rails API  | [Code][apir-code]  | [Video 1][apir-vid1], [Video 2][apir-vid2]           |
 | Rails Serializers  | [Code][rser-code]  | [Video 1][rser-vid1], [Video 2][rser-vid2], [Video 3][rser-vid3]           |
+| OOJS               | [Code][oojs-code]  | [Video 1][oojs-vid1], [Video 2][oojs-vid2]       |
+| Project Setup  | [Code][pset-code]  | [Video][pset-vid1]       |
 
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
@@ -85,6 +87,16 @@
 [rser-vid1]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588269955000
 [rser-vid2]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588272692000
 [rser-vid3]: https://wework.zoom.com/rec/share/z-pQJbHZ7FxJb7PfuE72Wq0TGN37T6a80yYa-PRYmRkwIAE7FXmPuvdS1V_Kj5Tq?startTime=1588275363000
+
+[oojs-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/40-oojs
+[oojs-vid1]: https://wework.zoom.com/rec/share/4uxyHbD2_UNJcNLo9E_QSvcrLqn4X6a823dL-6JeyU1aXkYunkbOrYyvU1G44LDv?startTime=1588345471000
+[oojs-vid2]: https://wework.zoom.com/rec/share/4uxyHbD2_UNJcNLo9E_QSvcrLqn4X6a823dL-6JeyU1aXkYunkbOrYyvU1G44LDv?startTime=1588348902000
+
+[pset-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/41-project-setup
+[pset-vid1]: https://wework.zoom.com/rec/share/tJ1sIez2-FFJe4n962XYW_c7BqX_eaa81CUc__cPy_x50DpS5yoeLYWkiZec0h0?startTime=1588356287000
+
+
+
 
 
 
