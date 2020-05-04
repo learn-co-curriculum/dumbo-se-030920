@@ -25,6 +25,7 @@
 | Rails Serializers  | [Code][rser-code]  | [Video 1][rser-vid1], [Video 2][rser-vid2], [Video 3][rser-vid3]           |
 | OOJS               | [Code][oojs-code]  | [Video 1][oojs-vid1], [Video 2][oojs-vid2]       |
 | Project Setup  | [Code][pset-code]  | [Video][pset-vid1]       |
+| This - Bind, Call, Apply | [Code][this-code]  | [Video 1][this-vid1], [Video 2][this-vid2]       |
 
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
@@ -94,6 +95,10 @@
 
 [pset-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/41-project-setup
 [pset-vid1]: https://wework.zoom.com/rec/share/tJ1sIez2-FFJe4n962XYW_c7BqX_eaa81CUc__cPy_x50DpS5yoeLYWkiZec0h0?startTime=1588356287000
+
+[this-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/42-this
+[this-vid1]: https://wework.zoom.com/rec/share/tZFyJrrar01OQ9bpw0HQcfYdJZW7X6a81yJK_fdZzEbpzjKJH5ZO_CERqQYrtU0p?startTime=1588604665000
+[this-vid2]: https://wework.zoom.com/rec/share/tZFyJrrar01OQ9bpw0HQcfYdJZW7X6a81yJK_fdZzEbpzjKJH5ZO_CERqQYrtU0p?startTime=1588607622000
 
 
 
