@@ -26,7 +26,7 @@
 | OOJS               | [Code][oojs-code]  | [Video 1][oojs-vid1], [Video 2][oojs-vid2]       |
 | Project Setup  | [Code][pset-code]  | [Video][pset-vid1]       |
 | This - Bind, Call, Apply | [Code][this-code]  | [Video 1][this-vid1], [Video 2][this-vid2]       |
-
+| Code Organization | [Code][corg-code]  | [Video 1][corg-vid1], [Video 2][corg-vid2]       |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -99,6 +99,10 @@
 [this-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/42-this
 [this-vid1]: https://wework.zoom.com/rec/share/tZFyJrrar01OQ9bpw0HQcfYdJZW7X6a81yJK_fdZzEbpzjKJH5ZO_CERqQYrtU0p?startTime=1588604665000
 [this-vid2]: https://wework.zoom.com/rec/share/tZFyJrrar01OQ9bpw0HQcfYdJZW7X6a81yJK_fdZzEbpzjKJH5ZO_CERqQYrtU0p?startTime=1588607622000
+
+[corg-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/43-code-organization
+[corg-vid1]: https://wework.zoom.com/rec/share/ve4uIpOh1E5JT9bdyR7wW6txApTneaa8gXAf8_MMy1s2cB_rUFygBoyHi55kHZ4?startTime=1588690954000
+[corg-vid2]: https://wework.zoom.com/rec/share/ve4uIpOh1E5JT9bdyR7wW6txApTneaa8gXAf8_MMy1s2cB_rUFygBoyHi55kHZ4?startTime=1588693873000
 
 
 
