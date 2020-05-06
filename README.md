@@ -27,6 +27,7 @@
 | Project Setup  | [Code][pset-code]  | [Video][pset-vid1]       |
 | This - Bind, Call, Apply | [Code][this-code]  | [Video 1][this-vid1], [Video 2][this-vid2]       |
 | Code Organization | [Code][corg-code]  | [Video 1][corg-vid1], [Video 2][corg-vid2]       |
+| ES6 Part 1 | [Code][es61-code]  | [Video][es61-vid1]    |
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -103,6 +104,10 @@
 [corg-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/43-code-organization
 [corg-vid1]: https://wework.zoom.com/rec/share/ve4uIpOh1E5JT9bdyR7wW6txApTneaa8gXAf8_MMy1s2cB_rUFygBoyHi55kHZ4?startTime=1588690954000
 [corg-vid2]: https://wework.zoom.com/rec/share/ve4uIpOh1E5JT9bdyR7wW6txApTneaa8gXAf8_MMy1s2cB_rUFygBoyHi55kHZ4?startTime=1588693873000
+
+[es61-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/44-es6
+[es61-vid1]: https://wework.zoom.com/rec/share/78h6daDSxlNIa4WXy2fgYo95F7rPX6a8g3If__YOzUtCEQ_eBXOp0PErinZ-70Cw?startTime=1588777446000
+
 
 
 
