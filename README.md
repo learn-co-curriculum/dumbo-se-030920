@@ -4,6 +4,34 @@
 
 ## Lecture code & videos
 
+### Mod 4 
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| Components       |[Code][comp-code]    | [Video 1][comp-vid1], [Video 2][comp-vid2] |
+| Props            |[Code][props-code]   | [Video][props-vid1] | 
+| State & Events   |[Code][state-code]   | [Video 1][state-vid1], [Video 2][state-vid2] |
+| Refactoring React   |[Code][refact-code]   | [Video 1][refact-vid1], [Video 2][refact-vid2] |
+
+
+[comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
+[comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
+[comp-vid2]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589211960000
+
+[props-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/47-react-props
+[props-vid1]: https://wework.zoom.com/rec/share/7sh4IbHc0HpIYZXJyWTHBK8fL6nfX6a813Mfq_APyxzVj7fNOY9lUk4o9f25Jh7L?startTime=1589220150000
+
+[state-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/48-state-and-events
+[state-vid1]: https://wework.zoom.com/rec/share/uNxZE-D65DxJbIXi6EHYZPY6OZzUT6a8gyJP-vULzk2X6FM0I2172yTtq0x2AyeN?startTime=1589295802000
+[state-vid2]: https://wework.zoom.com/rec/share/uNxZE-D65DxJbIXi6EHYZPY6OZzUT6a8gyJP-vULzk2X6FM0I2172yTtq0x2AyeN?startTime=1589298660000
+
+[refact-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/49-refactoring-react
+[refact-vid1]: https://wework.zoom.com/rec/share/zt5TPory22JJac_OzVrVC64dF6PMaaa8gSZM_PRfxEvRHKmF7yGFhEeXAFW4lnrr?startTime=1589310183000
+[refact-vid2]: https://wework.zoom.com/rec/share/zt5TPory22JJac_OzVrVC64dF6PMaaa8gSZM_PRfxEvRHKmF7yGFhEeXAFW4lnrr?startTime=1589313640000
+
+
+
+
+
 
 ### Mod 3 
 | Topic            | Code                | Video                |
