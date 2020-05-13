@@ -11,7 +11,8 @@
 | Props            |[Code][props-code]   | [Video][props-vid1] | 
 | State & Events   |[Code][state-code]   | [Video 1][state-vid1], [Video 2][state-vid2] |
 | Refactoring React   |[Code][refact-code]   | [Video 1][refact-vid1], [Video 2][refact-vid2] |
-
+| Inverse Data Flow + Controlled Components   |[Code][inv-code]   | [Video 1][inv-vid1], [Video 2][inv-vid2] |
+| React CRUD   |[Code][rcrud-code]   | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -27,6 +28,14 @@
 [refact-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/49-refactoring-react
 [refact-vid1]: https://wework.zoom.com/rec/share/zt5TPory22JJac_OzVrVC64dF6PMaaa8gSZM_PRfxEvRHKmF7yGFhEeXAFW4lnrr?startTime=1589310183000
 [refact-vid2]: https://wework.zoom.com/rec/share/zt5TPory22JJac_OzVrVC64dF6PMaaa8gSZM_PRfxEvRHKmF7yGFhEeXAFW4lnrr?startTime=1589313640000
+
+[inv-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/50-controlled-components
+[inv-vid1]: https://wework.zoom.com/rec/share/1NFuArH8qFlIbrfh2mvge-0_Lrr-eaa81HQd-qULzErj9s7cuA9eVg0CKoMH8pWl?startTime=1589382190000
+[inv-vid2]: https://wework.zoom.com/rec/share/1NFuArH8qFlIbrfh2mvge-0_Lrr-eaa81HQd-qULzErj9s7cuA9eVg0CKoMH8pWl?startTime=1589385637000
+
+[rcrud-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/51-react-crud
+[rcrud-vid1]: https://wework.zoom.com/rec/share/2ZNZLojh0j1OTJHm5k7cVYQYL93uX6a823QbqPNZxVXXTNNZEj3paKahRuTVcyQ?startTime=1589392954000
+[rcrud-vid2]: https://wework.zoom.com/rec/share/2ZNZLojh0j1OTJHm5k7cVYQYL93uX6a823QbqPNZxVXXTNNZEj3paKahRuTVcyQ?startTime=1589395847000
 
 
 
