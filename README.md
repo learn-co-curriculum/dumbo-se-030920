@@ -14,6 +14,9 @@
 | Inverse Data Flow + Controlled Components   |[Code][inv-code]   | [Video 1][inv-vid1], [Video 2][inv-vid2] |
 | React CRUD   |[Code][rcrud-code]   | [Video 1][rcrud-vid1], [Video 2][rcrud-vid2] |
 | Dynamic Search + Life Cycle   |[Code][rcyc-code]   | [Video 1][rcyc-vid1], [Video 2][rcyc-vid2] |
+| Hogwarts Review   |[Code][hog-code]   | [Video 1][hog-vid1], [Video 2][hog-vid2] |
+| Adding to Nested State  |[Code][nstat-code]   | [Video][nstat-vid1] |
+
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -41,6 +44,13 @@
 [rcyc-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/52-react-search
 [rcyc-vid1]: https://wework.zoom.com/rec/share/zp1vIbfO83lIGo2W6WH7BK4-HL7laaa80XUarvUJyHxul6TTNxR7qzPr7XXNZK0?startTime=1589465057000
 [rcyc-vid2]: https://wework.zoom.com/rec/share/zp1vIbfO83lIGo2W6WH7BK4-HL7laaa80XUarvUJyHxul6TTNxR7qzPr7XXNZK0?startTime=1589468037000
+
+[hog-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/53-hogwarts-review
+[hog-vid1]: https://wework.zoom.com/rec/share/x_VFP6iv_zpIT6PMtnPFZYI6O5jiaaa81XJK__MMyk18bwakP3YQ52oyzyFJUrX9?startTime=1589555029000
+[hog-vid2]: https://wework.zoom.com/rec/share/x_VFP6iv_zpIT6PMtnPFZYI6O5jiaaa81XJK__MMyk18bwakP3YQ52oyzyFJUrX9?startTime=1589558391000
+
+[nstat-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/53.5-adding-an-item
+[nstat-vid1]: https://wework.zoom.com/rec/share/4PZcC5bx_2lIRKvv2EPQa7U5TqrdT6a82yRIqfMOnUyXgsPIyVXf8iN7zT58YE1L?startTime=1589565980000
 
 
 
