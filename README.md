@@ -16,6 +16,7 @@
 | Dynamic Search + Life Cycle   |[Code][rcyc-code]   | [Video 1][rcyc-vid1], [Video 2][rcyc-vid2] |
 | Hogwarts Review   |[Code][hog-code]   | [Video 1][hog-vid1], [Video 2][hog-vid2] |
 | Adding to Nested State  |[Code][nstat-code]   | [Video][nstat-vid1] |
+| Mock Review  |[Code][hp-code]   | [Video 1][hp-vid1], [Video 2][hp-vid2] |
 
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
@@ -51,6 +52,10 @@
 
 [nstat-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/53.5-adding-an-item
 [nstat-vid1]: https://wework.zoom.com/rec/share/4PZcC5bx_2lIRKvv2EPQa7U5TqrdT6a82yRIqfMOnUyXgsPIyVXf8iN7zT58YE1L?startTime=1589565980000
+
+[hp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/54-mock-review
+[hp-vid1]: https://wework.zoom.com/rec/share/uPwqErXQ_UNOTa_W02zWcZ8fP9vIX6a82yAa8_VYzkc1kDZrC391-PLEYyCvacTL?startTime=1589825025000
+[hp-vid2]: https://wework.zoom.com/rec/share/uPwqErXQ_UNOTa_W02zWcZ8fP9vIX6a82yAa8_VYzkc1kDZrC391-PLEYyCvacTL?startTime=1589828929000
 
 
 
