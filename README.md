@@ -17,6 +17,7 @@
 | Hogwarts Review   |[Code][hog-code]   | [Video 1][hog-vid1], [Video 2][hog-vid2] |
 | Adding to Nested State  |[Code][nstat-code]   | [Video][nstat-vid1] |
 | Mock Review  |[Code][hp-code]   | [Video 1][hp-vid1], [Video 2][hp-vid2] |
+| React Review  |[Code][rere-code]   | [Video 1][rere-vid1], [Video 2][rere-vid2] |
 
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
@@ -57,6 +58,9 @@
 [hp-vid1]: https://wework.zoom.com/rec/share/uPwqErXQ_UNOTa_W02zWcZ8fP9vIX6a82yAa8_VYzkc1kDZrC391-PLEYyCvacTL?startTime=1589825025000
 [hp-vid2]: https://wework.zoom.com/rec/share/uPwqErXQ_UNOTa_W02zWcZ8fP9vIX6a82yAa8_VYzkc1kDZrC391-PLEYyCvacTL?startTime=1589828929000
 
+[rere-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/55-react-review
+[rere-vid1]: https://wework.zoom.com/rec/share/5ddKdZ_X5FFOHc_Us3HbWbYqWbbieaa81HdM-_RczEpoxJbseox3visBWGq8CR_f?startTime=1589900784000
+[rere-vid2]: https://wework.zoom.com/rec/share/5ddKdZ_X5FFOHc_Us3HbWbYqWbbieaa81HdM-_RczEpoxJbseox3visBWGq8CR_f?startTime=1589904052000
 
 
 
