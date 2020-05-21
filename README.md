@@ -289,8 +289,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 04/21    | Donny, Isabel, Xavier, Stephanie                   |
 | 04/23    | Jack, Gary                       |
 | 04/28    | Wesley, Daryl, Gabrielle                      |
-| 05/14    | Gabrielle, Jack, Donny , Isabel                                      |
-| 05/26    | Gary, Stephanie, Jemy                                      |
-| 06/02    | Donny, Isabel, Jemy                        |
+| 05/14    | Donny , Isabel                                      |
+| 05/26    | Gary, Stephanie, Jemy, Gabrielle                                      |
+| 06/02    | Donny, Isabel, Jemy, Jack                        |
 | 06/04    | Gabrielle, Jack, Gary, Stephanie                     |
 
