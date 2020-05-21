@@ -18,6 +18,7 @@
 | Adding to Nested State  |[Code][nstat-code]   | [Video][nstat-vid1] |
 | Mock Review  |[Code][hp-code]   | [Video 1][hp-vid1], [Video 2][hp-vid2] |
 | React Review  |[Code][rere-code]   | [Video 1][rere-vid1], [Video 2][rere-vid2] |
+| React Router  |[Code][rout-code]   | [Video 1][rout-vid1], [Video 2][rout-vid2] |
 
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
@@ -62,6 +63,9 @@
 [rere-vid1]: https://wework.zoom.com/rec/share/5ddKdZ_X5FFOHc_Us3HbWbYqWbbieaa81HdM-_RczEpoxJbseox3visBWGq8CR_f?startTime=1589900784000
 [rere-vid2]: https://wework.zoom.com/rec/share/5ddKdZ_X5FFOHc_Us3HbWbYqWbbieaa81HdM-_RczEpoxJbseox3visBWGq8CR_f?startTime=1589904052000
 
+[rout-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/56-react-router
+[rout-vid1]: https://wework.zoom.com/rec/share/5I9Qc5rv9ElOT4Xg62iYUb8lOZnOeaa8hCAervoPnhy3au-4LlD-Bvfi8DRXWaTU?startTime=1590073487000
+[rout-vid2]: https://wework.zoom.com/rec/share/5I9Qc5rv9ElOT4Xg62iYUb8lOZnOeaa8hCAervoPnhy3au-4LlD-Bvfi8DRXWaTU?startTime=1590076850000
 
 
 
