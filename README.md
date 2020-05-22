@@ -19,7 +19,8 @@
 | Mock Review  |[Code][hp-code]   | [Video 1][hp-vid1], [Video 2][hp-vid2] |
 | React Review  |[Code][rere-code]   | [Video 1][rere-vid1], [Video 2][rere-vid2] |
 | React Router  |[Code][rout-code]   | [Video 1][rout-vid1], [Video 2][rout-vid2] |
-
+| React Auth 1  |[Code][rauth1-code]   | [Video 1][rauth1-vid1], [Video 2][rauth1-vid2] |
+| React Auth 2  |[Code][rauth2-code]   | [Video 1][rauth2-vid1], [Video 2][rauth2-vid2] |
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -67,6 +68,14 @@
 [rout-vid1]: https://wework.zoom.com/rec/share/5I9Qc5rv9ElOT4Xg62iYUb8lOZnOeaa8hCAervoPnhy3au-4LlD-Bvfi8DRXWaTU?startTime=1590073487000
 [rout-vid2]: https://wework.zoom.com/rec/share/5I9Qc5rv9ElOT4Xg62iYUb8lOZnOeaa8hCAervoPnhy3au-4LlD-Bvfi8DRXWaTU?startTime=1590076850000
 
+[rauth1-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/57-react-auth
+[rauth1-vid1]: https://wework.zoom.com/rec/share/vv52D6-h-D1IUq-Vq3H2XqEZQKDKX6a81nNIqaUFmBwfcbZidof2kKJYEAGFaY09?startTime=1590084328000
+[rauth1-vid2]: https://wework.zoom.com/rec/share/vv52D6-h-D1IUq-Vq3H2XqEZQKDKX6a81nNIqaUFmBwfcbZidof2kKJYEAGFaY09?startTime=1590087959000
+
+
+[rauth2-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/58-react-auth
+[rauth2-vid1]: https://wework.zoom.com/rec/share/tedIbK_Z6z9LW5H9w1rbYo4rJYjbeaa80SlN8_sKyhpUxGdaHXnADM8_sx8LD2Bf?startTime=1590159854000
+[rauth2-vid2]: https://wework.zoom.com/rec/share/tedIbK_Z6z9LW5H9w1rbYo4rJYjbeaa80SlN8_sKyhpUxGdaHXnADM8_sx8LD2Bf?startTime=1590163288000
 
 
 ### Mod 3 
