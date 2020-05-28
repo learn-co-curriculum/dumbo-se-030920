@@ -22,6 +22,8 @@
 | React Auth 1  |[Code][rauth1-code]   | [Video 1][rauth1-vid1], [Video 2][rauth1-vid2] |
 | React Auth 2  |[Code][rauth2-code]   | [Video 1][rauth2-vid1], [Video 2][rauth2-vid2] |
 | React Hooks  |[Code][hooks-code]   | [Video 1][hooks-vid1], [Video 2][hooks-vid2] |
+| Predux  |[Code][predux-code]   | [Video 1][predux-vid1], [Video 2][predux-vid2] |
+| React Redux  |[Code][rx-code]   | [Video 1][rx-vid1], [Video 2][rx-vid2] |
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -81,6 +83,14 @@
 [hooks-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/59-react-hooks
 [hooks-vid1]: https://wework.zoom.com/rec/share/xtRrJIzK-kpLa6_V7nz5YKVxMYa7aaa81HUcq6dfnxk-d6_j7PslsschOtryXRh8?startTime=1590505404000
 [hooks-vid2]: https://wework.zoom.com/rec/share/xtRrJIzK-kpLa6_V7nz5YKVxMYa7aaa81HUcq6dfnxk-d6_j7PslsschOtryXRh8?startTime=1590508890000
+
+[predux-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/60-predux
+[predux-vid1]: https://wework.zoom.com/rec/share/5-VLPZbK_HJLWbPO4lj-eqIYGdvZT6a82yUWr_ALzxwe3eBrLcNQBDl0tJnVW_9A?startTime=1590678216000
+[predux-vid2]: https://wework.zoom.com/rec/share/5-VLPZbK_HJLWbPO4lj-eqIYGdvZT6a82yUWr_ALzxwe3eBrLcNQBDl0tJnVW_9A?startTime=1590681616000
+
+[rx-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/61-react-redux
+[rx-vid1]: https://wework.zoom.com/rec/share/vs1UErCu03JLRpWd7FvuU4kNWafDT6a8hCFI8vYPzE9q3kpSd-6uQNorSxIvyCJC?startTime=1590689192000
+[rx-vid2]: https://wework.zoom.com/rec/share/vs1UErCu03JLRpWd7FvuU4kNWafDT6a8hCFI8vYPzE9q3kpSd-6uQNorSxIvyCJC?startTime=1590692760000
 
 
 ### Mod 3 
