@@ -25,6 +25,7 @@
 | Predux  |[Code][predux-code]   | [Video 1][predux-vid1], [Video 2][predux-vid2] |
 | React Redux  |[Code][rx-code]   | [Video 1][rx-vid1], [Video 2][rx-vid2] |
 | Combine Reducers && Fetch   |[Code][crf-code]   | [Video 1][crf-vid1], [Video 2][crf-vid2] |
+| Project Presentations   | N/A   | [Video 1][pr4-vid1]
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -97,6 +98,8 @@
 [crf-vid1]: https://wework.zoom.com/rec/share/485rIu7C035JSNbo9R7leO0cL4D_X6a8gCRM-PIEnUyglGOFIPPH64PV08LJEE8e?startTime=1590766347000
 [crf-vid2]: https://wework.zoom.com/rec/share/485rIu7C035JSNbo9R7leO0cL4D_X6a8gCRM-PIEnUyglGOFIPPH64PV08LJEE8e?startTime=1590768376000
 
+[pr4-vid1]: https://wework.zoom.com/rec/share/2vVxd-jVrlpIEp3u63rZA4l9PqnsT6a81HMcrKVYxE4zxoHsBzR8afR9Ew8uKJ3m?startTime=1590779111000
+
 
 ### Mod 3 
 | Topic            | Code                | Video                |
@@ -122,6 +125,8 @@
 | Code Organization | [Code][corg-code]  | [Video 1][corg-vid1], [Video 2][corg-vid2]       |
 | ES6 Part 1 | [Code][es61-code]  | [Video][es61-vid1]    |
 | ES6 Part 2 | [Code][es62-code]  | [Video][es62-vid1]    |
+| Project Presentations | N/A  | [Video][pr3-vid1]    |
+
 
 [js-ruby-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/26-intro-to-js
 [js-ruby-vid1]: https://wework.zoom.com/rec/share/uNBeLoyq3VpJcKPq00L_BqcLRLrVX6a8gSkYr6BfxRn5jwE7j33xIEqzP1pQK0SC?startTime=1587395370000
@@ -204,6 +209,8 @@
 
 [es62-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/45-ss6
 [es62-vid1]: https://wework.zoom.com/rec/share/3N50L-iuriBIfc-Uw1-BaqEBAo7CT6a81ykf_PoOxEmmNzK8wvybtegRU9ouSEa0?startTime=1588860211000
+
+[pr3-vid1]: https://wework.zoom.com/rec/share/4sVoCoipzSRLT4HwwxnfUKEnQaDiT6a81yBL8vcKyE_8mokiaHI_gfa5gaBgjQRp?startTime=1588965278000
 
 
 
