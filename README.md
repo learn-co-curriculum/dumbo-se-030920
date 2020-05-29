@@ -24,6 +24,7 @@
 | React Hooks  |[Code][hooks-code]   | [Video 1][hooks-vid1], [Video 2][hooks-vid2] |
 | Predux  |[Code][predux-code]   | [Video 1][predux-vid1], [Video 2][predux-vid2] |
 | React Redux  |[Code][rx-code]   | [Video 1][rx-vid1], [Video 2][rx-vid2] |
+| Combine Reducers && Fetch   |[Code][crf-code]   | [Video 1][crf-vid1], [Video 2][crf-vid2] |
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -91,6 +92,10 @@
 [rx-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/61-react-redux
 [rx-vid1]: https://wework.zoom.com/rec/share/vs1UErCu03JLRpWd7FvuU4kNWafDT6a8hCFI8vYPzE9q3kpSd-6uQNorSxIvyCJC?startTime=1590689192000
 [rx-vid2]: https://wework.zoom.com/rec/share/vs1UErCu03JLRpWd7FvuU4kNWafDT6a8hCFI8vYPzE9q3kpSd-6uQNorSxIvyCJC?startTime=1590692760000
+
+[crf-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/62-advanced-redux
+[crf-vid1]: https://wework.zoom.com/rec/share/485rIu7C035JSNbo9R7leO0cL4D_X6a8gCRM-PIEnUyglGOFIPPH64PV08LJEE8e?startTime=1590766347000
+[crf-vid2]: https://wework.zoom.com/rec/share/485rIu7C035JSNbo9R7leO0cL4D_X6a8gCRM-PIEnUyglGOFIPPH64PV08LJEE8e?startTime=1590768376000
 
 
 ### Mod 3 
