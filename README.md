@@ -26,6 +26,7 @@
 | React Redux  |[Code][rx-code]   | [Video 1][rx-vid1], [Video 2][rx-vid2] |
 | Combine Reducers && Fetch   |[Code][crf-code]   | [Video 1][crf-vid1], [Video 2][crf-vid2] |
 | Project Presentations   | N/A   | [Video 1][pr4-vid1]
+| Thunk   |[Code][thunk-code]   | [Video 1][thunk-vid1] |
 
 [comp-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/46-intro-to-react
 [comp-vid1]: https://wework.zoom.com/rec/share/5_QtBe_BqzpJbo3h8VrQdbQFEKPcaaa81iUa-PEImEwiIC78goHXQHafRFBqdhzC?startTime=1589208525000
@@ -99,6 +100,9 @@
 [crf-vid2]: https://wework.zoom.com/rec/share/485rIu7C035JSNbo9R7leO0cL4D_X6a8gCRM-PIEnUyglGOFIPPH64PV08LJEE8e?startTime=1590768376000
 
 [pr4-vid1]: https://wework.zoom.com/rec/share/2vVxd-jVrlpIEp3u63rZA4l9PqnsT6a81HMcrKVYxE4zxoHsBzR8afR9Ew8uKJ3m?startTime=1590779111000
+
+[thunk-code]: https://github.com/learn-co-students/dumbo-se-030920/tree/master/63-thunk
+[thunk-vid1]: https://wework.zoom.com/rec/share/w_AtILPIzmJIZoGUtXDSZJEIDtnvaaa80HRLr_sKnQ5V0ZIJKRUnPKwez3jlMpg?startTime=1591025790000
 
 
 ### Mod 3 
